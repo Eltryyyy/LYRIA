@@ -16,6 +16,7 @@ packages=(
     noto-fonts-emoji
     noto-fonts-extra
     neovim
+    plexamp-appimage
 )
 
 echo "Installing packages now, please wait."
