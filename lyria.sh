@@ -17,7 +17,7 @@ packages=(
     noto-fonts-extra
     neovim
     plexamp-appimage
-    kdenlive-git
+    kdenlive
 )
 
 echo "Installing packages now, please wait."
