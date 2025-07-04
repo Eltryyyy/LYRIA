@@ -18,7 +18,6 @@ packages=(
     neovim
     plexamp-appimage
     kdenlive
-    timeshift
 )
 
 echo "Installing packages now, please wait."
