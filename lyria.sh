@@ -8,7 +8,7 @@ packages=(
     lsd
     man
     floorp-bin
-    vencord
+    vencord-bin
     mpv
     cava
     ani-cli
