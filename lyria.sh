@@ -16,7 +16,6 @@ packages=(
     noto-fonts-emoji
     noto-fonts-extra
     neovim
-    plexamp-appimage
     kdenlive
 )
 
