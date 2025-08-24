@@ -11,12 +11,17 @@ packages=(
     vencord-bin
     mpv
     cava
+    curseforge
     ani-cli
+    mullvad-vpn
     noto-fonts
     noto-fonts-emoji
     noto-fonts-extra
     neovim
+    steam
     kdenlive
+    qbittorrent
+    onlyoffice
 )
 
 echo "Installing packages now, please wait."
